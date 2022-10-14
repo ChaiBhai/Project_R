@@ -1,4 +1,4 @@
-#Project Y.E.T.M (You Eat Too Much)
+#Welcome to Project R 
 def CTC(food_cost, tip_amount, tax_amount):
     total_amount = 0.00
     if food_cost < tip_amount:
